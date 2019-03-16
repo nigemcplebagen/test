@@ -7,6 +7,7 @@ do
     
     if _G.SDK and _G.SDK.Orbwalker then return end
     
+    LocalCore = _G.GamsteronCore
     math.randomseed(os.clock())
 end
 
