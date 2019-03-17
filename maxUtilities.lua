@@ -1124,6 +1124,5 @@ local maxUtilities = setmetatable({}, {
 		if b == 2 then
 			self.lastAction = Timer()
 		end
-	end
 	maxUtilities()
 end
